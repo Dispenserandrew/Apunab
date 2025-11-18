@@ -1,0 +1,3 @@
+121211;pabloo;posorio520;Hola;2000
+palo;palo;palo;palo;2180
+12223;Pablo;posorio520@unab.edu.co;Calabaza09;2065
